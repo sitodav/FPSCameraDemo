@@ -39,6 +39,7 @@ public void draw()
   box(600,600,600);
   fill(0,200);
   textSize(100);
+  text("PRESS the mouse to look around",-500,-200);
   text("WASD to move ",-500,0);
   text("SPACEBAR/c to go up/down",-500,200);
 
